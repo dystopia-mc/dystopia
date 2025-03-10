@@ -1,0 +1,14 @@
+{
+  "Config": {
+    "Name": "sumo",
+
+    "Rotation": [0, 0],
+    "Spawn": [-3384, 34, -3334],
+
+    "HeightThreshold": {
+      "Enabled": true,
+      "Threshold": 5,
+      "OnDeath": 0
+    }
+  }
+}

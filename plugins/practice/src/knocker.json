@@ -1,0 +1,14 @@
+{
+  "Config": {
+    "Name": "knocker",
+
+    "Rotation": [0, 0],
+    "Spawn": [1010, -7, 5020],
+
+    "HeightThreshold": {
+      "Enabled": true,
+      "Threshold": -60,
+      "OnDeath": 0
+    }
+  }
+}

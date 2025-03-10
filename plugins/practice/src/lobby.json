@@ -1,0 +1,14 @@
+{
+  "Config": {
+    "Name": "lobby",
+
+    "Rotation": [180, 0],
+    "Spawn": [-1, 49, -1],
+
+    "HeightThreshold": {
+      "Enabled": true,
+      "Threshold": 5,
+      "OnDeath": 1
+    }
+  }
+}
